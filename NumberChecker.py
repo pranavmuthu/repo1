@@ -1,6 +1,6 @@
 import sys
 
-num = input("Please Enter a Number: ")
+num = input("Hello User. Please Enter a Number: ")
 num = int(num)
 
 if num > 100:
