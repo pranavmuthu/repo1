@@ -22,3 +22,7 @@ if num > 1:
         print(num, "is a prime number!!!")
 else:
     print(num, "is not a prime number!!!")
+
+
+if num == 997:
+    print("You chose the magic number! :O")
